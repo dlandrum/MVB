@@ -1,10 +1,6 @@
-Horizontal Timeline
+Michael VanBuhler Art Portfolio
 =========
 
-An easy to customize, horizontal timeline powered by CSS and jQuery.
+A one-paged art portfolio for Michael VanBuhler.
 
-[Article on CodyHouse](http://codyhouse.co/gem/horizontal-timeline/)
-
-[Demo](https://codyhouse.co/demo/horizontal-timeline/index.html)
- 
-[Terms](http://codyhouse.co/terms/)
+Design modified from https://github.com/CodyHouse/horizontal-timeline.
