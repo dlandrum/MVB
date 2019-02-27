@@ -17,6 +17,6 @@ gcloud app deploy
 ```
 You can view this project in action at https://www.michaelvanbuhler.com.
 
-##Acknowledgements
+## Acknowledgements
 
 Design modified from https://github.com/CodyHouse/horizontal-timeline.
