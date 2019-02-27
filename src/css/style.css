@@ -338,9 +338,17 @@ Main Components
   content: '- ';
 }
 .cd-horizontal-timeline .events-content img {
-    max-height: 800px;
+    max-height: 700px;
     display: block;
     margin: auto;
+}
+.cd-horizontal-timeline .events-content hr {
+  height: 0px;
+  width: 100%;
+  border-color: gray;
+  border-style: solid;
+  border-width: 1px;
+  margin: 10px 0px;
 }
 .cd-horizontal-timeline .events-content em, .cd-horizontal-timeline .events-content p {
   margin: 10px auto;
@@ -354,7 +362,7 @@ Main Components
     font-size: 1.6rem;
   }
   .cd-horizontal-timeline .events-content img {
-    max-height: 800px;
+    max-height: 700px;
     display: block;
     margin: auto;
   }
